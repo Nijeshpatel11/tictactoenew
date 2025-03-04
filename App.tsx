@@ -121,7 +121,7 @@ const App = () => {
         <Switch
           value={isDarkTheme}
           onValueChange={setIsDarkTheme}
-          thumbColor={isDarkTheme ? "#1abc9c" : "#e74c3c"}
+          thumbColor={isDarkTheme ? "#1abc9c" : "#5493ff"}
         />
       </View>
 
